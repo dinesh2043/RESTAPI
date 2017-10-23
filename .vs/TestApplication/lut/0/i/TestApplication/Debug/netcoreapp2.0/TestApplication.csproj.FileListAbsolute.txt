@@ -1,0 +1,10 @@
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\b\TestApplication\Debug\netcoreapp2.0\TestApplication.deps.json
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\b\TestApplication\Debug\netcoreapp2.0\TestApplication.runtimeconfig.json
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\b\TestApplication\Debug\netcoreapp2.0\TestApplication.runtimeconfig.dev.json
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\b\TestApplication\Debug\netcoreapp2.0\TestApplication.dll
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\b\TestApplication\Debug\netcoreapp2.0\TestApplication.pdb
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\i\TestApplication\Debug\netcoreapp2.0\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\i\TestApplication\Debug\netcoreapp2.0\TestApplication.AssemblyInfoInputs.cache
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\i\TestApplication\Debug\netcoreapp2.0\TestApplication.AssemblyInfo.cs
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\i\TestApplication\Debug\netcoreapp2.0\TestApplication.dll
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\i\TestApplication\Debug\netcoreapp2.0\TestApplication.pdb

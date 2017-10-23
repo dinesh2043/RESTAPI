@@ -1,0 +1,14 @@
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\b\XUnitTestProject\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\b\XUnitTestProject\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\b\XUnitTestProject\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\b\XUnitTestProject\Debug\netcoreapp2.0\XUnitTestProject.deps.json
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\b\XUnitTestProject\Debug\netcoreapp2.0\XUnitTestProject.runtimeconfig.json
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\b\XUnitTestProject\Debug\netcoreapp2.0\XUnitTestProject.runtimeconfig.dev.json
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\b\XUnitTestProject\Debug\netcoreapp2.0\XUnitTestProject.dll
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\b\XUnitTestProject\Debug\netcoreapp2.0\XUnitTestProject.pdb
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\i\XUnitTestProject\Debug\netcoreapp2.0\XUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\i\XUnitTestProject\Debug\netcoreapp2.0\XUnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\i\XUnitTestProject\Debug\netcoreapp2.0\XUnitTestProject.AssemblyInfoInputs.cache
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\i\XUnitTestProject\Debug\netcoreapp2.0\XUnitTestProject.AssemblyInfo.cs
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\i\XUnitTestProject\Debug\netcoreapp2.0\XUnitTestProject.dll
+C:\Users\dinesh\source\repos\TestApplication\.vs\TestApplication\lut\0\i\XUnitTestProject\Debug\netcoreapp2.0\XUnitTestProject.pdb
